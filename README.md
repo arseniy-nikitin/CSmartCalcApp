@@ -47,7 +47,7 @@ SmartCalc is a versatile calculator application developed in C and C++ using the
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd SmartCalc
+   cd CSmartCalcApp/src
    ```
 
 2. Build and run the application using Makefile:
